@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="category_screen_title">Ischermu</string>
-    <string name="screen_colors_title">Colores</string>
-    <string name="mdnie_scenario_video_warm">Tonu vìdeu callente</string>
+    <string name="category_screen_title">မျက်နှာပြင်</string>
+    <string name="screen_colors_title">အရောင်များ</string>
+    <string name="mdnie_scenario_title_head">ဇာတ်ညွှန်း</string>
 </resources>
